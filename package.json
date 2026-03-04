@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NyxN1N9/background-generator.git"
+    "url": "git+https://github.com/Fenyx9/Gradient_Generator.git"
   },
   "author": "NN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NyxN1N9/background-generator/issues"
+    "url": "https://github.com/Fenyx9/Gradient_Generator/issues"
   },
-  "homepage": "https://github.com/NyxN1N9/background-generator#readme",
+  "homepage": "https://github.com/Fenyx9/Gradient_Generator#readme",
   "dependencies": {
     "live-server": "^1.2.2",
     "lodash": "^4.17.23",
